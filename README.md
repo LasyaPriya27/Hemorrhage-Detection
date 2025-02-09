@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/brain-hemorrhage-detection.git
+https://github.com/LasyaPriya27/Hemorrhage-Detection.git
 ```
 
 
