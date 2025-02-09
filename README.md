@@ -10,10 +10,10 @@ This study uses machine learning on medical imaging and demographic data to impr
 For better patient outcomes and prompt care, hemorrhage identification is essential. Accurately interpreting imaging data, however, takes time and skill, which may postpone therapy. By automatically examining data patterns, machine learning provides a way to speed up this process and identify hemorrhages quickly and precisely. This study uses a large dataset of medical and demographic data to evaluate six machine learning algorithms in order to determine the best model for bleeding diagnosis.
 
 ## Contributions
-•	Model Evaluation: Compared six machine learning models for hemorrhage detection.
-•	Data Integration: Merged medical imaging data with demographic details to improve prediction accuracy.
-•	Regularization & Validation: Applied regularization and cross-validation for robust model performance.
-•	Optimal Model Selection: Identified XGBoost and Neural Networks as top-performing models for accuracy and reliability.
+-	Model Evaluation: Compared six machine learning models for hemorrhage detection.
+-	Data Integration: Merged medical imaging data with demographic details to improve prediction accuracy.
+-	Regularization & Validation: Applied regularization and cross-validation for robust model performance.
+-	Optimal Model Selection: Identified XGBoost and Neural Networks as top-performing models for accuracy and reliability.
 
 ## Literature Review
 Current machine learning research in medical diagnostics focuses on individual models such as SVM and Random Forests. Although ensemble and neural network methods have shown great accuracy in imaging-based classification, they are frequently not interpretable. Research has also demonstrated that by capturing more patient-specific risk factors, combining demographic information with imaging features might improve prediction models even more.
