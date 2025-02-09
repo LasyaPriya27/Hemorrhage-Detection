@@ -33,13 +33,6 @@ Our use of demographic information and imaging data resulted in a significant in
 ## Conclusion & Future Scope
 Gradient Boosting achieved the highest accuracy and lowest log loss for hemorrhage detection, with XGBoost closely following, while Neural Networks showed perfect accuracy but slightly higher log loss, and SVM underperformed compared to ensemble models.
 
-## References
-1.	Liao, X., & Lu, Y. (2020). Machine learning-based hemorrhage detection in medical images: Techniques and applications. IEEE Access, 8, 12456-12465.
-2.	Guan, Q., & Huang, Y. (2020). Ensemble learning approaches in medical image classification. Computers in Biology and Medicine, 123, 103905.
-3.	Shao, Y., Xia, Z., & Yu, Y. (2018). The integration of imaging and non-imaging features for improved hemorrhage diagnosis. Journal of Biomedical Informatics, 84, 64-75.
-4.	Lundervold, A. S., & Lundervold, A. (2019). An overview of deep learning in medical imaging focusing on MRI. Zeitschrift für Medizinische Physik, 29(2), 102-127.
-5.	Litjens, G., Kooi, T., Bejnordi, B. E., et al. (2017). A survey on deep learning in medical image analysis. Medical Image Analysis, 42, 60-88.
-
 
 ## Dataset
 
