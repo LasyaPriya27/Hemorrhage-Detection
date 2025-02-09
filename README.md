@@ -67,7 +67,7 @@ git clone https://github.com/your-username/brain-hemorrhage-detection.git
 
 4. Open and run the Jupyter notebook:
 ```bash
-https://colab.research.google.com/drive/1yk18AdVvXUlvv6pGj8ITJBVcd2579CrK?usp=sharing
+(https://colab.research.google.com/drive/1KezU-HgXo1G2U8H1H8KaJ9igrLdS7BuQ?usp=sharing)
 ```
 
 6. Train the model and evaluate the segmentation results.
